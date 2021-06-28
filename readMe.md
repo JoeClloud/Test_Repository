@@ -4,5 +4,3 @@
 # narkos
 
 # 'gain
-
-# riboflavin firepower
