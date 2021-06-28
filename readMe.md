@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Read the board
 
 # added from the branch
@@ -6,3 +7,6 @@
 # narkos
 
 # 'gain
+=======
+# we restart
+>>>>>>> newBranch
