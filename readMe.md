@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-# Read the board
-
-# added from the branch
-# and you shall be free.
-
-# narkos
-
-# 'gain
-=======
-# we restart
->>>>>>> newBranch
+# we restarted
